@@ -1,0 +1,12 @@
+public class HugelInteger{
+
+    private String integer;
+    
+    public  HugelInteger(String num){
+        integer = new String(num);        
+    }
+    public void imputHugelInteger(){
+    
+    }
+
+}
