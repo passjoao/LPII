@@ -6,7 +6,7 @@ public class HugeInteger{
         integer = new String(num);        
     }
     public void imputHugelInteger(){
-    
+	char[] cadeia = integer.toCharArray();    
     }
 
 }
