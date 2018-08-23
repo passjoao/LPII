@@ -1,0 +1,7 @@
+public class Main{
+    public static void main(String[] args){
+//    (String theTitle, String theArtist, int tracks, int time)
+        CD cd1 = new CD("pao", "joao", 10, 1500);
+        cd1.print();
+    }
+}
